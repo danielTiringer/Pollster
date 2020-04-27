@@ -10,6 +10,7 @@ It is based on a video series found on Youtube, but with improvements.
 
 *   Made without any Python or Django installed on the host.
 *   Little previous experience with Python
+*   Use Postgres instead of SQLite for a more complex setup
 
 ### Resources
 
